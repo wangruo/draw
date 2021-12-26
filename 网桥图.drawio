@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T11:31:41.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="c6_SvFLICGIF4YrXRPga" version="16.1.0" type="github"><diagram id="X_sBehSgkwLZXwZc_31-" name="Page-1">xZRNT4QwEIZ/TY8mBZZl97qIuzHxYDZ+xIupdKRNCiWlCPjrBZkKuDFZL5pwaJ93OjN9O4EEcd7uDSvFjeagiE95S4JL4vveyvfJ8FHejSRaI8iM5Bg0gaN8B4QUaS05VItAq7WyslzCVBcFpHbBmDG6WYa9arWsWrIMTsAxZeqUPkhuxUg3IZ34AWQmXGWPopIzF4ygEozrZoaChASx0dqOq7yNQQ3mOV/Gc1c/qF+NGSjsOQei25qaSt1dvzzeh/HzU9OawwVmeWOqxguTJCLbFdmFJNmQzYpsPYypbOdMMbouOAx5PRLsGiEtHEuWDmrTj0HPhM0Vyqd9uqJgLLQzhH3vQedgTdeHODVCD7tv+2Z6Es/5LGbPsUbGcAqyr9STUf0CvfqFb8EZvvn/7ltI/863fjvN8qc2+yMEyQc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-26T11:38:54.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YMWq3y41kPzzcLHXdsrX" version="16.1.0" type="github">
+  <diagram id="X_sBehSgkwLZXwZc_31-" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7Qu0rslUJbXV5C_ZwxrH-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7Qu0rslUJbXV5C_ZwxrH-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="450" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-1" value="网卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iXo1oA6MDKdRr24PhS2N-2" target="iXo1oA6MDKdRr24PhS2N-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-2" value="网卡2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iXo1oA6MDKdRr24PhS2N-3" target="iXo1oA6MDKdRr24PhS2N-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-3" value="网卡1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-5" value="网卡1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-6" value="网卡2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-7" value="网卡3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iXo1oA6MDKdRr24PhS2N-10" target="iXo1oA6MDKdRr24PhS2N-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iXo1oA6MDKdRr24PhS2N-10" target="iXo1oA6MDKdRr24PhS2N-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-10" value="网桥：192.168.2.2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-13" value="路由器&lt;br&gt;192.168.2.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-14" value="电脑1---VMware Ubutu20.04" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iXo1oA6MDKdRr24PhS2N-15" value="电脑2----&lt;br&gt;192.168.2.3&lt;br&gt;QEMU 虚拟机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
